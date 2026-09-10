@@ -1,4 +1,4 @@
-.. fastTPC documentation master file, created by
+.. easy test pattern gen documentation master file, created by
    sphinx-quickstart on Thu Sep 10 09:39:19 2026.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.

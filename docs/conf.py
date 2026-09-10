@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'fastTPC'
+project = 'easy test pattern gen'
 copyright = '2026, winterlii'
 author = 'winterlii'
 release = '0.1'
